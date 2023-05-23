@@ -12,3 +12,5 @@ My explanation of growth mindset goes here...
 - Keep trying different things! Don't give up.
 
 [Link to my Github portfolio/profile](https://github.com/kassiebradshaw)
+
+Making changes to show git stuff
